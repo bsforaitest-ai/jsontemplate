@@ -1,0 +1,17 @@
+{
+  "Author": "Haselnussbomber",
+  "Name": "HaselTweaks",
+  "InternalName": "HaselTweaks",
+  "AssemblyVersion": "36.0.0.0",
+  "Description": "Keep on tweaking.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
+  "DalamudApiLevel": 12,
+  "LoadRequiredState": 1,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "IconUrl": "https://raw.githubusercontent.com/Haselnussbomber/HaselTweaks/refs/heads/dev/HaselTweaks/Assets/Icon.png",
+  "Punchline": "A collection of quality of life tweaks.",
+  "AcceptsFeedback": true
+}
