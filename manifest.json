@@ -1,4 +1,5 @@
-{
+[
+  {
   "Author": "Haselnussbomber",
   "Name": "HaselTweaks",
   "InternalName": "HaselTweaks",
@@ -16,5 +17,6 @@
   "AcceptsFeedback": true,
   "Changelog": "",
   "DownloadLinkInstall": "https://github.com/bsforaitest-ai/jsontemplate/releases/download/ff14/latest.zip",
-   "DownloadLinkUpdate": "https://github.com/bsforaitest-ai/jsontemplate/releases/download/ff14/latest.zip"
-}
+  "DownloadLinkUpdate": "https://github.com/bsforaitest-ai/jsontemplate/releases/download/ff14/latest.zip"
+  }
+]
