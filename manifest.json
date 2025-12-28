@@ -13,5 +13,8 @@
   "LoadPriority": 0,
   "IconUrl": "https://raw.githubusercontent.com/Haselnussbomber/HaselTweaks/refs/heads/dev/HaselTweaks/Assets/Icon.png",
   "Punchline": "A collection of quality of life tweaks.",
-  "AcceptsFeedback": true
+  "AcceptsFeedback": true,
+  "Changelog": "",
+  "DownloadLinkInstall": "https://github.com/bsforaitest-ai/jsontemplate/releases/download/ff14/latest.zip",
+   "DownloadLinkUpdate": "https://github.com/bsforaitest-ai/jsontemplate/releases/download/ff14/latest.zip"
 }
